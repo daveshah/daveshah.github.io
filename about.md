@@ -3,9 +3,12 @@ layout: page
 title: About
 permalink: /about/
 ---
+It's weird writing my own about page. I have no idea how people write auto-biographies.  
 
-This is a simple Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/).  Plus, you can find a lot of themes at [jekyllthemes.org](http://jekyllthemes.org/)
+![](https://media.giphy.com/media/kC397rpnJjhp8oB1No/giphy.gif)
 
-You can find the source code for this theme at: <data data-icon="ei-sc-github"></data>  [jekyll-simple](https://github.com/wild-flame/jekyll-simple)
+I'm going to procrastinate on this one for a bit because, to be honest, I've never been good at writing this sort of thing and it's probably not the most valuable thing in my head that I'd like to share as I start this. So, until further notice, here's a big ol' 
 
-You can find the source code for Jekyll at <data data-icon="ei-sc-github"></data>  [jekyll](https://github.com/jekyll/jekyll)
+```ruby
+# TODO
+```
